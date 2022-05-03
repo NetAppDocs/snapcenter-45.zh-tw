@@ -1,0 +1,26 @@
+---
+permalink: protect-scc/concept_snapcenter_custom_plug_ins_overview.html 
+sidebar: sidebar 
+keywords: SnapCenter Custom Plug-ins 
+summary: 您可以為使用的應用程式開發自訂外掛程式、然後使用SnapCenter 支援功能來備份、還原或複製這些應用程式。如同其他SnapCenter 的不支援程式外掛程式、您的自訂外掛程式可做為NetAppSnap Center軟體的主機端元件、提供應用程式感知的資料保護與資源管理功能。 
+---
+= 「自訂外掛程式」總覽SnapCenter
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+您可以為使用的應用程式開發自訂外掛程式、然後使用SnapCenter 支援功能來備份、還原或複製這些應用程式。如同其他SnapCenter 的不支援程式外掛程式、您的自訂外掛程式可做為NetApp SnapCenter 支援軟體的主機端元件、提供應用程式感知資料保護及資源管理功能。
+
+安裝自訂外掛程式時、您可以使用SnapCenter NetApp SnapMirror技術的功能來建立另一個磁碟區上備份集的鏡射複本、並使用NetApp SnapVault 功能來執行磁碟對磁碟備份複寫。自訂外掛程式可在Windows和Linux環境中使用。
+
+
+NOTE: SnapCenterCLI不支援SnapCenter 使用「功能不全的自訂外掛程式」命令。
+
+NetApp提供MySQL和DB2自訂外掛程式、其中包含SnapCenter 不支援的Software 2.0及更新版本、以及3.0及更新版本的MongoDB自訂外掛程式。這些外掛程式可從下載 https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]。
+
+
+NOTE: MySQL、DB2和MongoDB自訂外掛程式僅透過NetApp社群提供支援。
+
+您可以參照建立自己的自訂外掛程式 link:concept_develop_a_plug_in_for_your_application.html["為應用程式開發外掛程式"^]。
