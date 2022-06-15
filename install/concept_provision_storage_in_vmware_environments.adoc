@@ -2,7 +2,7 @@
 permalink: install/concept_provision_storage_in_vmware_environments.html 
 sidebar: sidebar 
 keywords: guest OS, VMware ESXi server, limitations, RDM, Microsoft cluster 
-summary: 您可以在SnapCenter VMware環境中使用適用於Microsoft Windows的解決方案、來建立及管理LUN、以及管理Snapshot備份複本。 
+summary: 您可以在SnapCenter VMware環境中使用適用於Microsoft Windows的解決方案、來建立及管理LUN、以及管理Snapshot複本。 
 ---
 = 在VMware環境中配置儲存設備
 :allow-uri-read: 
@@ -11,7 +11,7 @@ summary: 您可以在SnapCenter VMware環境中使用適用於Microsoft Windows�
 
 
 [role="lead"]
-您可以在SnapCenter VMware環境中使用適用於Microsoft Windows的解決方案、來建立及管理LUN、以及管理Snapshot備份複本。
+您可以在SnapCenter VMware環境中使用適用於Microsoft Windows的解決方案、來建立及管理LUN、以及管理Snapshot複本。
 
 
 
