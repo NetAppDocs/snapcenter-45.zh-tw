@@ -400,14 +400,14 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/concept/concept_prescripts_and_postscripts.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/concept_provision_storage_in_vmware_environments.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
@@ -645,7 +645,7 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/create-svm-roles-minimum-privileges.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
@@ -769,7 +769,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_generate_CA_certificate_CSR_file.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/reference_generate_CA_certificate_CSR_file.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -783,21 +783,21 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/reference_generate_CA_certificate_CSR_file.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/reference_generate_CA_certificate_CSR_file.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/reference_generate_CA_certificate_CSR_file.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_generate_CA_certificate_CSR_file.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/reference_generate_CA_certificate_CSR_file.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -832,14 +832,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_host_requirements_to_install_snapcenter_plug_in_package_for_windows_scc.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/reference_host_requirements_to_install_snapcenter_plug_in_package_for_windows_hana.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/reference_host_requirements_to_install_snapcenter_plug_in_package_for_windows_hana.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_host_requirements_to_install_snapcenter_plug_in_package_for_windows_scc.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -916,14 +916,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/reference_prepare_storage_system_for_snapmirror_and_snapvault.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/reference_prepare_storage_system_for_snapmirror_and_snapvault.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/reference_prepare_storage_system_for_snapmirror_and_snapvault.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/reference_prepare_storage_system_for_snapmirror_and_snapvault.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1114,7 +1114,7 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sco/reference_storage_types_supported_by_snapcenter_plug_in_for_oracle_database.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
@@ -1189,14 +1189,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_types_of_restore_strategies_supported_for_manually_added_sap_hana_resources.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/reference_types_of_restore_strategies_supported_for_manually_added_sap_hana_resources.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/reference_types_of_restore_strategies_supported_for_manually_added_sap_hana_resources.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/reference_types_of_restore_strategies_supported_for_manually_added_sap_hana_resources.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1226,7 +1226,7 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45//search.html</loc>
       
-      <lastmod>2022-05-03T11:32:31+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:49+00:00</lastmod>
       
     </url>
   
@@ -1490,14 +1490,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_cancel_restore_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_cancel_restore_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_cancel_restore_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_cancel_restore_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1672,7 +1672,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1686,21 +1686,21 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_configure_CA_certificate_with_Windows_host_plug-in_services.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1728,13 +1728,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
@@ -1742,14 +1735,21 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_configure_gMSA_on_windows_server_2012_or_later.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -1779,7 +1779,7 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sco/task_configure_snapcenter_plug_in_loader_service.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
@@ -1896,14 +1896,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_create_resource_groups_and_attach_policies.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_create_resource_groups_and_attach_policies.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_create_resource_groups_and_attach_policies.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_create_resource_groups_and_attach_policies.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2085,21 +2085,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_enable_ca_certificates_for_plug-ins.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_enable_ca_certificates_for_plug-ins.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_enable_ca_certificates_for_plug-ins.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2114,6 +2100,20 @@
   
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_enable_ca_certificates_for_plug-ins.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_enable_ca_certificates_for_plug-ins.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_enable_ca_certificates_for_plug-ins.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2155,7 +2155,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_get_the_CA_certificate_thumbprint.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_get_the_CA_certificate_thumbprint.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2169,21 +2169,21 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_get_the_CA_certificate_thumbprint.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_get_the_CA_certificate_thumbprint.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_get_the_CA_certificate_thumbprint.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_get_the_CA_certificate_thumbprint.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_get_the_CA_certificate_thumbprint.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2211,7 +2211,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_import_CA_certificates.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_import_CA_certificates.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2225,21 +2225,21 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_import_CA_certificates.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/install/task_import_CA_certificates.html</loc>
-      
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_import_CA_certificates.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_import_CA_certificates.html</loc>
+      
+      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_import_CA_certificates.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2302,14 +2302,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_install_snapcenter_plug_in_for_vmware_vsphere.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_install_snapcenter_plug_in_for_vmware_vsphere.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_install_snapcenter_plug_in_for_vmware_vsphere.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_install_snapcenter_plug_in_for_vmware_vsphere.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2414,14 +2414,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_backup_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_backup_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_backup_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_backup_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2491,14 +2491,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_restore_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_restore_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_restore_operations.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_restore_operations.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2526,14 +2526,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_snapcenter_plug_in_package_installation_status.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_snapcenter_plug_in_package_installation_status.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scw/task_monitor_snapcenter_plug_in_package_installation_status.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-sce/task_monitor_snapcenter_plug_in_package_installation_status.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2743,14 +2743,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_restore_and_recover_resources_using_powershell_cmdlets_scc.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_restore_and_recover_resources_using_powershell_cmdlets_hana.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-hana/task_restore_and_recover_resources_using_powershell_cmdlets_hana.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/snapcenter-45/protect-scc/task_restore_and_recover_resources_using_powershell_cmdlets_scc.html</loc>
       
       <lastmod>2022-05-03T11:32:13+00:00</lastmod>
       
@@ -2934,14 +2934,14 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/upgrade/task_upgrade_snapcenter.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/upgrade/task_upgrade_your_plug_in_packages.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
@@ -2997,7 +2997,7 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/snapcenter-45/upgrade/upgrade_workflow.html</loc>
       
-      <lastmod>2022-05-03T11:32:13+00:00</lastmod>
+      <lastmod>2022-06-15T07:55:32+00:00</lastmod>
       
     </url>
   
