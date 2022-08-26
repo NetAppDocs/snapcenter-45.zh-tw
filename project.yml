@@ -12,6 +12,9 @@ settings:
     version-number: '4.5'
   - name: 軟件SnapCenter
     url: "/snapcenter"
+    version-number: '4.7'
+  - name: 軟件SnapCenter
+    url: "/snapcenter-46"
     version-number: '4.6'
   langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr
 sidebar:

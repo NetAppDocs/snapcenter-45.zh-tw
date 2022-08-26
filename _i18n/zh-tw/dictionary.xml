@@ -1064,7 +1064,6 @@
   <block id="5bfdbe319f93f982db7e2e53d844bd74" category="list-text">建立KDS根金鑰、為GMSA中的每個物件產生唯一的密碼。</block>
   <block id="35c239ad892c492785a568f43643a49b" category="list-text">對於每個網域、請從Windows網域控制器執行下列命令：add-KDSRootKey -EffectiveImmedia</block>
   <block id="4e2c07bd931da6c7ec41ee4923c33de0" category="list-text">建立及設定GMSA：</block>
-  <block id="64f0c9a3329f7826505496e99f5b6257" category="list-text">建立使用者群組帳戶。</block>
   <block id="e9311390b1566f1587fec0689b110903" category="list-text">新增電腦物件至群組。</block>
   <block id="f22d222d43494a76b9ced73084b174f7" category="list-text">使用您剛建立的使用者群組來建立GMSA。</block>
   <block id="cabbc139b7f74771c47e3eb24d94c92b" category="paragraph">例如、</block>
@@ -1178,7 +1177,6 @@
   <block id="bd5309e59a4bca83b633c90ae5daf38b" category="paragraph">您可以使用SnapCenter 支援ONTAP SnapMirror技術的支援功能來在另一個Volume上建立備份集的鏡射複本、ONTAP SnapVault 並使用支援此技術的支援功能來執行磁碟對磁碟備份複寫、以符合標準及其他治理相關用途。在執行這些工作之前、您必須先設定來源與目的地磁碟區之間的資料保護關係、然後初始化關係。</block>
   <block id="9b646613b64beb84f0dd23de8375c5b4" category="admonition">如果您是SnapCenter 從NetApp SnapManager 產品來到這個地方、並且對您設定的資料保護關係感到滿意、您可以跳過本節。</block>
   <block id="6ff146878a4540cb5c56e41c5dc907df" category="paragraph">資料保護關係會將主要儲存設備（來源Volume）上的資料複寫到次要儲存設備（目的地Volume）。當您初始化關係時、ONTAP 將來源磁碟區上參照的資料區塊傳輸到目的地磁碟區。</block>
-  <block id="dd91d992ea162a54fe948382dc6122fb" category="admonition">不支援SnapMirror與支援等量資料（*主要*&gt;*鏡射*&gt;* Vault *）之間的串聯關係。SnapCenter SnapVault僅使用扇出關係（*主*&gt;*鏡射*、*主*&gt;* Vault *）。</block>
   <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="inline-link">本文檔 ONTAP</block>
   <block id="85f4322e48905f6a2043ad68d659cc9b" category="paragraph">支援管理版本彈性的SnapMirror關係。SnapCenter如需版本靈活的SnapMirror關係及其設定方式的詳細資訊、請參閱<block ref="8f4b16b80a7cbb7edba7f6aa6efedcf1" category="inline-link-rx"></block>。</block>
   <block id="d61e736bc78dc6b6bef444a82078d1f7" category="summary">您SnapCenter 可以使用「工作」頁面來監控安裝過程。您可能需要檢查安裝進度、以判斷何時完成或是否有問題。</block>
@@ -1385,7 +1383,6 @@
   <block id="e4eeb55e3e0cd2267e0daa6e20349545" category="list-text">使用Get-SmCloneReport Cmdlet檢視複製工作詳細資料、以驗證備份是否成功複製。</block>
   <block id="46ca186cb22f8dea3bb75049b7f0e17e" category="paragraph">您可以檢視詳細資料、例如複製ID、開始日期和時間、結束日期和時間。</block>
   <block id="8f088fc353589a53b22d09fce118b2a6" category="doc">設定SnapCenter SAP HANA資料庫的效能分析外掛程式認證</block>
-  <block id="d1c9be42188126d7cdb36006987f8674" category="paragraph">請勿在Windows的密碼中使用雙引號（"）。</block>
   <block id="3983634b494fae1a9edb600d9c4a9292" category="summary">支援實體機器和虛擬機器（VMs）上的各種儲存類型。SnapCenter安裝SnapCenter 適用於SAP HANA資料庫的支援功能之前、您必須先確認儲存類型的支援。</block>
   <block id="0b42d90235dd8ef6ec97a9268c77b113" category="doc">SAP HANA資料庫的支援儲存類型SnapCenter</block>
   <block id="478593976233dfc3e57256f78404f939" category="paragraph">支援實體機器和虛擬機器（VM）上的各種儲存類型。SnapCenter安裝SnapCenter 適用於SAP HANA資料庫的支援功能之前、您必須先確認儲存類型的支援。</block>
@@ -5500,7 +5497,6 @@
   <block id="4a1235dca49f377ee2531fa84b5a11bf" category="paragraph">在您要安裝SnapCenter 此插件的系統上、指定網域管理員或任何系統管理員群組成員。「使用者名稱」欄位的有效格式如下：</block>
   <block id="a93932dc1af33276251008f69486a0e6" category="list-text">《username@UPN》</block>
   <block id="1f304163a7909c028545d03ae0549ec7" category="paragraph">對於屬於工作群組的系統、請在安裝SnapCenter 此插件的系統上指定內建的本機管理員。如果使用者帳戶擁有較高的權限、或主機系統上的使用者存取控制功能已停用、您可以指定屬於本機系統管理員群組的本機使用者帳戶。使用者名稱欄位的有效格式如下：「UserName」（使用者名稱）</block>
-  <block id="52a731706049956361af4bdd1cdbccc7" category="paragraph">請勿在密碼中使用雙引號（"）。</block>
   <block id="00832b779bc9edc3f680504dba310586" category="paragraph">完成認證設定之後、您可能會想要在*使用者與存取*頁面上、將認證維護指派給使用者或使用者群組。</block>
   <block id="ddac336280358154ababc34d8448b704" category="summary">您可以從主要儲存設備或次要儲存設備複製檔案系統備份。您也可以選擇支援您需求的目的地：原始備份位置、或是同一主機或不同主機上的不同目的地。目的地必須與複製來源備份位於同一個磁碟區。</block>
   <block id="70ad71185ca59c8324ad10cefb069335" category="doc">Windows檔案系統的複本來源與目的地</block>
@@ -7355,4 +7351,9 @@
   <block id="22d8a94cf37cc6d66c941a43b9d79fa8" category="paragraph">當主機啟用CA憑證驗證時顯示為true。</block>
   <block id="f5834ae40c2c791cfe589857bdad345c" category="paragraph">您可以透過編輯spl.properties或使用SnapCenter 不禁用圖形使用者介面或Cmdlet來啟用或停用此參數。</block>
   <block id="0fc6896a1941ab3074a525b384b1d103" category="paragraph">。<block ref="1b419d76cc3163a36d36ff494ed65b44" category="inline-link-rx"></block> 包含有關所支援版本的最新資訊。</block>
+  <block id="7cbf140d17e0f4c0fe27276252add63e" category="list-text">以下列格式建立使用者群組帳戶：</block>
+  <block id="d332f88a3886e736c322b3643225a6cd" category="admonition">不支援SnapMirror與支援等量資料（*主要*&gt;*鏡射*&gt;* Vault *）之間的串聯關係。SnapCenter SnapVault您應該使用「扇出」關係。</block>
+  <block id="76532e7091335c4eb76878af878c5b79" category="paragraph">請勿在密碼中使用雙引號（"）或反引號（"）。請勿使用小於（&lt;）和驚嘆號（！） 密碼中的符號。例如、lessthan&lt;!10、lessthan10&lt;!、backtick'12。</block>
+  <block id="fb6661786b7d5b1cfb5df7ffe94a3009" category="paragraph">第三方備份排程與SnapCenter 不支援的備份排程重疊時、將不受支援。您不應修改排程、並重新命名在Windows排程器或SQL Server代理程式中建立的備份工作。</block>
+  <block id="5891deda92209d1d45144775b7d5c20d" category="admonition">您不應重新命名在Windows排程器或SQL Server代理程式中建立的備份工作。</block>
 </blocks>
