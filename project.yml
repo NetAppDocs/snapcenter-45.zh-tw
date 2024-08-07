@@ -22,7 +22,7 @@ settings:
     url: "/snapcenter-47"
   - version-number: '4.6'
     url: "/snapcenter-46"
-  langs: zh-tw,us-en,ja-jp,ko-kr,zh-cn,de-de,es-es,fr-fr,it-it
+  langs: zh-tw,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn
 sidebar:
   entries:
   - title: 軟件4.5文檔SnapCenter
